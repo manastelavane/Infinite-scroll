@@ -19,6 +19,14 @@ h1 {
   font-size: 40px;
   letter-spacing: 5px;
 }
+h3 {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  color: balck;
+  letter-spacing: 5px;
+}
 
 /* Loader */
 .loader {
